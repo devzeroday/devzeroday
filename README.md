@@ -24,10 +24,6 @@
 
 ## 📜 Contact Me:
 - Discord: zeroday777
-- Signal: zeroday777
-
-## 📝 Other Stuff:
-[![Sonara Discord](https://img.shields.io/badge/DISCORD-SONARA-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/SnjCEvQJJY)
 
 ## 🧑‍💻 Programming Languages & Tools I Use:
 ![javascript](https://www.readmecodegen.com/api/social-icon?name=javascript&size=96)
