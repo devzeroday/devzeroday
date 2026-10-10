@@ -19,10 +19,5 @@
 
 ## 🧑‍💻 Programming Languages & Tools I Use:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,cs,cpp,c,rust,unity,react&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,rust,cs,cpp,c,py,unity,react&theme=dark" />
 </p>
-<p align="left">
-  <img src="https://img.shields.io/badge/ASM-Assembly-1f2430?style=for-the-badge&logo=gnuassembler&logoColor=white" alt="Assembly" />
-</p>
-
-
