@@ -18,19 +18,23 @@
 - **Signal:** `zeroday.777`
 
 ## 🧑‍💻 Programming Languages & Tools I Use:
-<p>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=javascript&size=96" width="96" height="96" alt="JavaScript">
-  <img src="https://www.readmecodegen.com/api/social-icon?name=typescript&size=96" width="96" height="96" alt="TypeScript">
-  <img src="https://www.readmecodegen.com/api/social-icon?name=unity&size=96&color=%23ffffff" width="96" height="96" alt="Unity">
-  <img src="https://cdn.simpleicons.org/c/00599C" width="96" height="96" alt="C">
-  <img src="https://www.readmecodegen.com/api/social-icon?name=python&size=96" width="96" height="96" alt="Python">
+
+## 🧑‍💻 Programming Languages & Tools I Use:
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="64" height="64" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="64" height="64" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="64" height="64" alt="Unity" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="64" height="64" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="64" height="64" alt="Python" />
 </p>
-<p>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=rust&size=96" width="96" height="96" alt="Rust">
-  <img src="https://www.readmecodegen.com/api/social-icon?name=linux&size=96" width="96" height="96" alt="Linux">
-  <img src="https://www.readmecodegen.com/api/social-icon?name=postgresql&size=96&color=%238b5cf6" width="96" height="96" alt="PostgreSQL">
-  <img src="https://www.readmecodegen.com/api/social-icon?name=nodejs&size=96" width="96" height="96" alt="Node.js">
-  <img src="https://www.readmecodegen.com/api/social-icon?name=github&size=96&color=%23ffffff" width="96" height="96" alt="GitHub">
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="64" height="64" alt="Rust" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="64" height="64" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="64" height="64" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="64" height="64" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="64" height="64" alt="GitHub" />
 </p>
+
 
 
