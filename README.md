@@ -1,46 +1,32 @@
 ## 👋 Hi everyone, Zeroday Here!
-> 💻 Full-Stack Developer • 🎮 Game Developer in Unity • 🐧 Linux Fedora 44 • 🪟 Microslop Windows 11 Pro
+> 💻 Full-Stack Developer • 🎮 Game Developer in Unity • 🐧 Linux Fedora 44 • 🪟 Microsoft Windows 11
 
 ## 😀 About Me:
 - 💻 Developer interested in software, web & game development and some low-level stuff
-- 🚀 Currently working on personal projects and learning new technologies
-- 🎮 I enjoy creating games with Unity, especially 3D
-- 🌐 Building full-stack applications with React, Node.js & PostgreSQL
-- 🐧 Linux enthusiast, Microslop sucks :D
+- 🎮 Creating Games especially 3D in Unity Engine, before I was doing it in Roblox
+- 🌐 Building full-stack applications with React, Node.js and much more
 - 🔧 I like building things from scratch and experimenting with operating systems
-- 🧠 Currently learning C, C#, C++ and improving my JavaScript skills
-
-## 🖥️ My Setup:
-- CPU: Intel Core i5-13400F @ Performance Cores Only
-- GPU: NVIDIA GeForce RTX 4060 8GB (Gigabyte)
-- RAM: Lexar 32GB 3200Mhz DDR4 (Dual-Channel)
-- ROM: Intel SSD 512GB M.2 PCIE, 512GB SSD SATA III, 2TB USB Drive
-- PSU: Endorfy 600W (Bronze 80+)
 
 ## 🚀 Current Projects:
-- 🎵 **Sonara** — Music platform built with React, Node.js & PostgreSQL.
-- 🖥️ **NexusOS** — My own hobby operating system in COSMOS Framework.
-- 🎮 **ANOMALY** — Singleplayer Story Horror Game in Unity 3D.
+- 💬 **[KlovyChat](https://klovy.chat/)** — Modern real-time messaging platform, currently working on UI.
+- 🖥️ **[NexusOS](https://github.com/ogbebu/NexusOS)** — Experimental operating system built with C# and Cosmos.
+- 🎮 **Anomaly** — Single-player horror game built in Unity 3D. *(In Development)*
 
 ## 📜 Contact Me:
-- Discord: zeroday777
+- **E-Mail:** `dev.zeroday@proton.me`
+- **Discord:** `zeroday777`
+- **Signal:** `zeroday.777`
 
 ## 🧑‍💻 Programming Languages & Tools I Use:
 ![javascript](https://www.readmecodegen.com/api/social-icon?name=javascript&size=96)
-![html5](https://www.readmecodegen.com/api/social-icon?name=html5&size=96)
-![css3](https://www.readmecodegen.com/api/social-icon?name=css3&size=96)
-![vite](https://www.readmecodegen.com/api/social-icon?name=vite&size=96&color=%238b5cf6)
-![react](https://www.readmecodegen.com/api/social-icon?name=react&size=96)
-
+![typescript](https://www.readmecodegen.com/api/social-icon?name=typescript&size=96)
 ![unity](https://www.readmecodegen.com/api/social-icon?name=unity&size=96&color=%23ffffff)
-![c](https://www.readmecodegen.com/api/social-icon?name=c&size=96&color=%233b82f6)
+![C](https://cdn.simpleicons.org/c/00599C)
 ![python](https://www.readmecodegen.com/api/social-icon?name=python&size=96)
+
+![rust](https://www.readmecodegen.com/api/social-icon?name=rust&size=96)
 ![linux](https://www.readmecodegen.com/api/social-icon?name=linux&size=96)
 ![postgresql](https://www.readmecodegen.com/api/social-icon?name=postgresql&size=96&color=%238b5cf6)
-
 ![nodejs](https://www.readmecodegen.com/api/social-icon?name=nodejs&size=96)
-![express](https://www.readmecodegen.com/api/social-icon?name=express&size=96&bg=%23000000&theme=dark&color=%23ffffff)
 ![github](https://www.readmecodegen.com/api/social-icon?name=github&size=96&color=%23ffffff)
-![git](https://www.readmecodegen.com/api/social-icon?name=git&size=96)
-![mongodb](https://www.readmecodegen.com/api/social-icon?name=mongodb&size=96)
 
