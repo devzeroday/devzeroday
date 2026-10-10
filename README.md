@@ -18,15 +18,19 @@
 - **Signal:** `zeroday.777`
 
 ## 🧑‍💻 Programming Languages & Tools I Use:
-![javascript](https://www.readmecodegen.com/api/social-icon?name=javascript&size=96)
-![typescript](https://www.readmecodegen.com/api/social-icon?name=typescript&size=96)
-![unity](https://www.readmecodegen.com/api/social-icon?name=unity&size=96&color=%23ffffff)
-![C](https://cdn.simpleicons.org/c/00599C)
-![python](https://www.readmecodegen.com/api/social-icon?name=python&size=96)
+<p>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=javascript&size=96" width="96" height="96" alt="JavaScript">
+  <img src="https://www.readmecodegen.com/api/social-icon?name=typescript&size=96" width="96" height="96" alt="TypeScript">
+  <img src="https://www.readmecodegen.com/api/social-icon?name=unity&size=96&color=%23ffffff" width="96" height="96" alt="Unity">
+  <img src="https://cdn.simpleicons.org/c/00599C" width="96" height="96" alt="C">
+  <img src="https://www.readmecodegen.com/api/social-icon?name=python&size=96" width="96" height="96" alt="Python">
+</p>
+<p>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=rust&size=96" width="96" height="96" alt="Rust">
+  <img src="https://www.readmecodegen.com/api/social-icon?name=linux&size=96" width="96" height="96" alt="Linux">
+  <img src="https://www.readmecodegen.com/api/social-icon?name=postgresql&size=96&color=%238b5cf6" width="96" height="96" alt="PostgreSQL">
+  <img src="https://www.readmecodegen.com/api/social-icon?name=nodejs&size=96" width="96" height="96" alt="Node.js">
+  <img src="https://www.readmecodegen.com/api/social-icon?name=github&size=96&color=%23ffffff" width="96" height="96" alt="GitHub">
+</p>
 
-![rust](https://www.readmecodegen.com/api/social-icon?name=rust&size=96)
-![linux](https://www.readmecodegen.com/api/social-icon?name=linux&size=96)
-![postgresql](https://www.readmecodegen.com/api/social-icon?name=postgresql&size=96&color=%238b5cf6)
-![nodejs](https://www.readmecodegen.com/api/social-icon?name=nodejs&size=96)
-![github](https://www.readmecodegen.com/api/social-icon?name=github&size=96&color=%23ffffff)
 
