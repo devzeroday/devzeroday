@@ -8,8 +8,8 @@
 - 🔧 I like building things from scratch and experimenting with operating systems
 
 ## 🚀 Current Projects:
-- 💬 **[KlovyChat](https://klovy.chat/)** — Modern real-time messaging platform, currently working on UI.
-- 🖥️ **[NexusOS](https://github.com/ogbebu/NexusOS)** — Experimental operating system built with C# and Cosmos.
+- 💬 **[KlovyChat](https://klovy.chat/)** — Modern real-time messaging platform, currently working on frontend.
+- 🖥️ **[NexusOS C#](https://github.com/nexusos-devs/nexusos-csharp)** — Experimental operating system built with C# and Cosmos.
 - 🎮 **Anomaly** — Single-player horror game built in Unity 3D. *(In Development)*
 
 ## 📜 Contact Me:
